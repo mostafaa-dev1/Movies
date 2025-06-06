@@ -9,7 +9,7 @@ class ApiServices {
       headers: <String, String>{
         'accept': 'application/json',
         'Authorization':
-            'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1YjQ2MDYzMGI5ODI4YzBhNzQ5YzRmZDI4NDhkMWQ1NiIsIm5iZiI6MTcyOTgxNzg1NS44MTU4MTIsInN1YiI6IjY2M2QyNGM4MDRkYzVmMWEwYjFmMDZiNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.thwG748peVW2kEL03_kNB_Lf1YsI-_qWep3cwBK9Rs0'
+            'Bearer ***********************************************'
       },
     );
 
